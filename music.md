@@ -8,3 +8,4 @@
 | Tinie Tempah | Invincible           | Disc-Overy | 2010       | Kelly Rowland |
 | Akon         | Right Now Na Na Na   |            |            | Kat DeLuna    |
 | Kat DeLuna   | Stars                | Loading    | 2016       |               |
+| Kat DeLuna   | Stars                | Loading    | 2016       |               |
