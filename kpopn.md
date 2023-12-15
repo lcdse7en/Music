@@ -18,3 +18,4 @@
 | 태(Feat.버벌진트) | Taeyeon           | 泰妍         | I                            | I - The 1st Mini Album | 2015-10-07   |
 | 박재범            | Jay Park          | 朴宰范       | 신리의 달밤                  | 불후의 명곡            | 2012-04-14   |
 | 애프터 스쿨       | After School      |              | 밤 하늘에                    |                        |              |
+| 타블로            | Tablo             |              | Tomorrow                     |                        |              |
