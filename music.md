@@ -12,3 +12,4 @@
 | Akon           | Right Now Na Na Na   |            |            |  Kat DeLuna   |
 | Kat DeLuna     | Stars                | Loading    |    2016    |               |
 | Brian McKnight | Still                | Superhero  |    2001    |               |
+| Nelly Furtado  | Say it Right         | Loose      |    2006    |               |
