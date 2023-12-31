@@ -1,4 +1,4 @@
-| Singer or Group     | English Name      | Chinese Name | Song Title                   | Ablum                  | Release Time |
+| Singer or Group     | English Name      | Chinese Name | Song Title                   | 앨범                   | Release Time |
 | ------------------- | ----------------- | ------------ | ---------------------------- | ---------------------- | ------------ |
 | 투피엠              | 2PM               |              | I'll be back                 | Still 2:00PM           | 2010-10-11   |
 | 소녀시대            | Girl's Generation | 少女时代     | The Boys                     |                        |              |
@@ -19,3 +19,4 @@
 | 박재범              | Jay Park          | 朴宰范       | 신리의 달밤                  | 불후의 명곡            | 2012-04-14   |
 | 애프터 스쿨         | After School      |              | 밤 하늘에                    |                        |              |
 | 타블로              | Tablo             |              | Tomorrow                     |                        |              |
+| 브레이브 걸스       | Brave Girls       | 勇敢女孩     | 치맛바람(Chi Mat Ba Ram)     |                        |              |
