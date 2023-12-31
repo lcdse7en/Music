@@ -8,7 +8,7 @@
 | 매드 클라운(소유)   | Mad Clown         |              | 차해 빠젔어(Stupid in love)  | 차해 빠젔어            | 2013-09-10   |
 | 정지훈              | Rain              | 郑智熏       | Rainism                      | RAINISM                | 2008-10-15   |
 | 정지훈              | Rain              | 郑智熏       | My Way                       | RAINISM                | 2008-10-15   |
-| 인칠현              | Kangta            | 安七炫       | 가면(Persona)                | Persona                | 2005-03-04   |
+| 안칠현              | Kangta            | 安七炫       | 가면(Persona)                | Persona                | 2005-03-04   |
 | 제이와이제이        | JYJ               |              | Back seat                    | JUST US                | 2014-07-09   |
 | 동방시기            |                   | 东方神起     | 왜(Keep your head down)      | 왜                     | 2011-01-05   |
 | 에일리              | Ailee             |              | I Need You                   |                        |              |
