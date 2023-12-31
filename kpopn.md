@@ -19,4 +19,4 @@
 | 박재범              | Jay Park          | 朴宰范       | 신리의 달밤                  | 불후의 명곡            | 2012-04-14   |
 | 애프터 스쿨         | After School      |              | 밤 하늘에                    |                        |              |
 | 타블로              | Tablo             |              | Tomorrow                     |                        |              |
-| 브레이브 걸스       | Brave Girls       | 勇敢女孩     | 치맛바람(Chi Mat Ba Ram)     |                        |              |
+| 브레이브 걸스       | Brave Girls       | 勇敢女孩     | 치맛바람(Chi Mat Ba Ram)     | Summer Queen           | 2021-06-17   |
