@@ -1,0 +1,197 @@
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 25. May 2008, 20:09
+
+Leona Lewis / Spirit
+
+Used drive  : LITE-ON LTR-52327S   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 768 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\FLAC\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=%e" %s -o %d
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:23.43 |         0    |    19767   
+        2  |  4:23.43 |  3:27.40 |     19768    |    35332   
+        3  |  7:51.08 |  3:50.17 |     35333    |    52599   
+        4  | 11:41.25 |  3:54.45 |     52600    |    70194   
+        5  | 15:35.70 |  3:54.53 |     70195    |    87797   
+        6  | 19:30.48 |  3:54.22 |     87798    |   105369   
+        7  | 23:24.70 |  3:59.45 |    105370    |   123339   
+        8  | 27:24.40 |  4:14.10 |    123340    |   142399   
+        9  | 31:38.50 |  4:52.48 |    142400    |   164347   
+       10  | 36:31.23 |  3:48.27 |    164348    |   181474   
+       11  | 40:19.50 |  3:43.32 |    181475    |   198231   
+       12  | 44:03.07 |  4:26.18 |    198232    |   218199   
+       13  | 48:29.25 |  4:09.58 |    218200    |   236932   
+
+
+Track  1
+
+     Filename C:\DOWNLOADS\RIPPING\(01) Leona Lewis - Bleeding Love.wav
+
+     Peak level 97.5 %
+     Track quality 100.0 %
+     Test CRC 58A3FCEA
+     Copy CRC 58A3FCEA
+     Accurately ripped (confidence 15)  [DDF17C7B]
+     Copy OK
+
+Track  2
+
+     Filename C:\DOWNLOADS\RIPPING\(02) Leona Lewis - Whatever It Takes.wav
+
+     Peak level 98.8 %
+     Track quality 99.9 %
+     Test CRC 23AC989C
+     Copy CRC 23AC989C
+     Accurately ripped (confidence 15)  [B9939202]
+     Copy OK
+
+Track  3
+
+     Filename C:\DOWNLOADS\RIPPING\(03) Leona Lewis - Homeless.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC AB99BBB4
+     Copy CRC AB99BBB4
+     Accurately ripped (confidence 15)  [67972CF0]
+     Copy OK
+
+Track  4
+
+     Filename C:\DOWNLOADS\RIPPING\(04) Leona Lewis - Better In Time.wav
+
+     Peak level 98.9 %
+     Track quality 100.0 %
+     Test CRC 023CC893
+     Copy CRC 023CC893
+     Accurately ripped (confidence 15)  [8ED65309]
+     Copy OK
+
+Track  5
+
+     Filename C:\DOWNLOADS\RIPPING\(05) Leona Lewis - Yesterday.wav
+
+     Peak level 97.1 %
+     Track quality 100.0 %
+     Test CRC 38160B43
+     Copy CRC 38160B43
+     Accurately ripped (confidence 15)  [09E15956]
+     Copy OK
+
+Track  6
+
+     Filename C:\DOWNLOADS\RIPPING\(06) Leona Lewis - Take A Bow.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC AB0CB030
+     Copy CRC AB0CB030
+     Accurately ripped (confidence 15)  [9C6153A3]
+     Copy OK
+
+Track  7
+
+     Filename C:\DOWNLOADS\RIPPING\(07) Leona Lewis - I Will Be.wav
+
+     Peak level 98.8 %
+     Track quality 100.0 %
+     Test CRC 08095FB9
+     Copy CRC 08095FB9
+     Accurately ripped (confidence 15)  [26EBCE98]
+     Copy OK
+
+Track  8
+
+     Filename C:\DOWNLOADS\RIPPING\(08) Leona Lewis - Angel.wav
+
+     Peak level 97.7 %
+     Track quality 100.0 %
+     Test CRC 7A582432
+     Copy CRC 7A582432
+     Accurately ripped (confidence 15)  [E048B548]
+     Copy OK
+
+Track  9
+
+     Filename C:\DOWNLOADS\RIPPING\(09) Leona Lewis - Here I Am.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Test CRC 6AC68105
+     Copy CRC 6AC68105
+     Accurately ripped (confidence 15)  [4E6A001B]
+     Copy OK
+
+Track 10
+
+     Filename C:\DOWNLOADS\RIPPING\(10) Leona Lewis - I'm You.wav
+
+     Peak level 98.8 %
+     Track quality 100.0 %
+     Test CRC E9C74669
+     Copy CRC E9C74669
+     Accurately ripped (confidence 15)  [15340E26]
+     Copy OK
+
+Track 11
+
+     Filename C:\DOWNLOADS\RIPPING\(11) Leona Lewis - The Best You Never Had.wav
+
+     Peak level 97.7 %
+     Track quality 100.0 %
+     Test CRC ABB0995F
+     Copy CRC ABB0995F
+     Accurately ripped (confidence 15)  [49AB706A]
+     Copy OK
+
+Track 12
+
+     Filename C:\DOWNLOADS\RIPPING\(12) Leona Lewis - The First Time Ever I Saw Your Face.wav
+
+     Peak level 87.3 %
+     Track quality 100.0 %
+     Test CRC 79339117
+     Copy CRC 79339117
+     Accurately ripped (confidence 15)  [1C5CA216]
+     Copy OK
+
+Track 13
+
+     Filename C:\DOWNLOADS\RIPPING\(13) Leona Lewis - Footprints In The Sand.wav
+
+     Peak level 98.8 %
+     Track quality 100.0 %
+     Test CRC 399FBE33
+     Copy CRC 399FBE33
+     Accurately ripped (confidence 15)  [41836616]
+     Copy OK
+
+
+All tracks accurately ripped
+
+No errors occurred
+
+End of status report
