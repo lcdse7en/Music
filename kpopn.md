@@ -1,4 +1,4 @@
-| Singer or Group     | English Name      | Chinese Name | Song Title                   | 앨범                   | Release Time |
+| Singer or Group     | English Name      | Chinese Name | Song Title                   | Ablum                  | Release Time |
 | ------------------- | ----------------- | ------------ | ---------------------------- | ---------------------- | ------------ |
 | 투피엠              | 2PM               |              | I'll be back                 | Still 2:00PM           | 2010-10-11   |
 | 소녀시대            | Girl's Generation | 少女时代     | The Boys                     |                        |              |
