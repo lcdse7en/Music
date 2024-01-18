@@ -20,4 +20,4 @@
 | 애프터 스쿨         | After School      | 밤 하늘에                    |                        |              |
 | 타블로              | Tablo             | Tomorrow                     |                        |              |
 | 브레이브 걸스       | Brave Girls       | 치맛바람(Chi Mat Ba Ram)     | Summer Queen           | 2021-06-17   |
-| 박효신              | Park Hyo Shin     | 그 곳에 서서                 | 4집 - Soul Tree        | 2004-04-19   |
+| 박효신              | Park Hyo Shin     | 그 곳에 서서                 | 4집 - Soul Tree        | 2004-04-20   |
